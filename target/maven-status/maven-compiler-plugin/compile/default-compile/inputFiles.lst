@@ -1,0 +1,4 @@
+/home/mati/Documents/github/sonar-custom-plugin-example/src/main/java/org/sonarsource/plugins/bitbucket/settings/BitBucketProperties.java
+/home/mati/Documents/github/sonar-custom-plugin-example/src/main/java/org/sonarsource/plugins/bitbucket/settings/WriteBitBucketSettingsScanner.java
+/home/mati/Documents/github/sonar-custom-plugin-example/src/main/java/org/sonarsource/plugins/bitbucket/BitBucketPlugin.java
+/home/mati/Documents/github/sonar-custom-plugin-example/src/main/java/org/sonarsource/plugins/bitbucket/hooks/FillPullRequestJob.java

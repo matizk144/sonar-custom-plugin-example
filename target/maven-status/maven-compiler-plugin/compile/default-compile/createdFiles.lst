@@ -1,0 +1,4 @@
+org/sonarsource/plugins/bitbucket/hooks/FillPullRequestJob.class
+org/sonarsource/plugins/bitbucket/settings/WriteBitBucketSettingsScanner.class
+org/sonarsource/plugins/bitbucket/BitBucketPlugin.class
+org/sonarsource/plugins/bitbucket/settings/BitBucketProperties.class
